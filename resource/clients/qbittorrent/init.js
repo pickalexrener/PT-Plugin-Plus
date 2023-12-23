@@ -193,6 +193,7 @@
             category = qbCategory.name
             autoTMM = true
           } else {
+            category = qbCategory.name
             autoTMM = false
           }
         }
